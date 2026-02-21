@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**motya770/motya770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Matvei Kudelin
+# Matthew Kudelin
 
 Senior Software Engineer/Senior Data Scientist (Java/Python) → AI/simulations.  
 I build systems that model behavior, decisions, and outcomes.
