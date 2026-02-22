@@ -12,7 +12,7 @@ An agent with needs, memory, and behavior loops (inspired by Maslow + long-term 
 - **Tech:** Python, LLM tooling, Neo4j/graph DB, vector DB, tests/CI
 
 ➡️ Repo: https://github.com/motya770/jenbina  
-➡️ Demo/Docs: <link>
+➡️ Demo/Docs: https://jenbina-production.up.railway.app/
 
 ### 📈 Econ Sim — economic simulation / market dynamics
 A simulation sandbox for experimenting with incentives, policies, and emergent behavior.
@@ -21,7 +21,7 @@ A simulation sandbox for experimenting with incentives, policies, and emergent b
 - **Tech:** Python, notebooks / web UI, metrics dashboards
 
 ➡️ Repo: https://github.com/motya770/t500
-➡️ Demo/Docs: <link>
+➡️ Demo/Docs: https://econsim.up.railway.app/
 
 ## 🔭 Current Focus
 - Building simulation tooling that’s **testable**, **observable**, and **iterable**
