@@ -5,6 +5,11 @@ I build systems that model behavior, decisions, and outcomes.
 
 ## ⭐ Featured Projects
 
+### 🧠 QWord — quantum simulation (Python desktop application)
+
+https://github.com/motya770/qworld
+
+
 ### 🧠 Jenbina — AGI simulation (Tamagotchi-like inner life)
 An agent with needs, memory, and behavior loops (inspired by Maslow + long-term memory graphs).
 - **What it is:** a self-sustaining character simulation driven by an LLM + internal state
@@ -29,7 +34,7 @@ A simulation sandbox for experimenting with incentives, policies, and emergent b
 
 ## 🧰 Stack
 **Backend:** Python, Java, Spring Boot  
-**Data/ML:** XGBoost, survival models, LLM apps  
+**Data/ML:** XGBoost, survival models, LLM apps, Pytorch
 **Infra:** Docker, CI/CD  
 **Frontend:** (optional) Streamlit / React
 
